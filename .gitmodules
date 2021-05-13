@@ -8,3 +8,4 @@
 	url = https://github.com/rstub/swephr
 	shallow = true
 	registered = true
+	oncran = true
