@@ -2,5 +2,12 @@
   {
     "package": "swephR",
     "oncran": true
+  },
+  {
+    "package": "swephRdata"
+  },
+  {
+    "package": "dqrng",
+    "oncran": true
   }
 ]

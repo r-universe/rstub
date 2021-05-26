@@ -1,10 +1,20 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/rstub/universe
 	shallow = true
 	branch = HEAD
 [submodule "swephR"]
 	path = swephR
-	url = https://github.com/rstub/swephr
+	url = https://github.com/rstub/swephR
+	shallow = true
+	registered = true
+[submodule "swephRdata"]
+	path = swephRdata
+	url = https://github.com/rstub/swephRdata
+	shallow = true
+	registered = true
+[submodule "dqrng"]
+	path = dqrng
+	url = https://github.com/daqana/dqrng
 	shallow = true
 	registered = true
