@@ -9,5 +9,12 @@
   {
     "package": "dqrng",
     "oncran": true
+  },
+  {
+    "package": "tikzDevice",
+    "oncran": true
+  },
+  {
+    "package": "RcppArrayFire"
   }
 ]

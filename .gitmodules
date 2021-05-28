@@ -18,3 +18,13 @@
 	url = https://github.com/daqana/dqrng
 	shallow = true
 	registered = true
+[submodule "tikzDevice"]
+	path = tikzDevice
+	url = https://github.com/daqana/tikzDevice
+	shallow = true
+	registered = true
+[submodule "RcppArrayFire"]
+	path = RcppArrayFire
+	url = https://github.com/daqana/rcpparrayfire
+	shallow = true
+	registered = true
