@@ -2,18 +2,18 @@
 	path = .registry
 	url = https://github.com/rstub/universe
 	branch = HEAD
+[submodule "RcppArrayFire"]
+	path = RcppArrayFire
+	url = https://github.com/daqana/rcpparrayfire
+[submodule "dqrng"]
+	path = dqrng
+	url = https://github.com/daqana/dqrng
 [submodule "swephR"]
 	path = swephR
 	url = https://github.com/rstub/swephR
 [submodule "swephRdata"]
 	path = swephRdata
 	url = https://github.com/rstub/swephRdata
-[submodule "dqrng"]
-	path = dqrng
-	url = https://github.com/daqana/dqrng
 [submodule "tikzDevice"]
 	path = tikzDevice
 	url = https://github.com/daqana/tikzDevice
-[submodule "RcppArrayFire"]
-	path = RcppArrayFire
-	url = https://github.com/daqana/rcpparrayfire
