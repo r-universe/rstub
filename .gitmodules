@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/rstub/universe
+	url = https://github.com/rstub/rstub.r-universe.dev
 	branch = HEAD
 [submodule "RcppArrayFire"]
 	path = RcppArrayFire
